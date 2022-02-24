@@ -9,5 +9,6 @@ Refresco grande, con un precio de 3 USD.
 let fin = false;
 
 while (fin == false) {
-
+  console.log('Elige un producto');
+  fin = true;
 }
