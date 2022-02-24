@@ -6,3 +6,8 @@ Pizza con 3 ingredientes, con un precio de 12 USD por cada una.
 Refresco chico, con un precio de 2 USD.
 Refresco grande, con un precio de 3 USD.
  */
+let fin = false;
+
+while (fin == false) {
+
+}
